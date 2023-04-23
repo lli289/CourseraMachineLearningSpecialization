@@ -5,7 +5,7 @@ Machine Learning Specialization Course 1 to 5 by Andrew Ng
 ### Course 1 Supervised Machine Learning: Regression and Classification
 * Week 1 Optional Labs:
   + [Optional Lab: Brief Introduction to Python and Jupyter Notebooks](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%201/Week%201/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
-  + [Optional Lab: Model Representation](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%201/Week%201/C1_W1_Lab02_Model_Representation_Soln.ipynb)\
+  + [Optional Lab: Model Representation](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%201/Week%201/C1_W1_Lab02_Model_Representation_Soln.ipynb)
   + [Optional Lab: Cost Function](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%201/Week%201/C1_W1_Lab03_Cost_function_Soln.ipynb)
   + [Optional Lab: Gradient Descent for Linear Regression](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%201/Week%201/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
 * Week 1 Graded Lab: none
