@@ -1,5 +1,5 @@
 # CourseraMachineLearningSpecialization
-Coursera: Machine Learning Specialization Course 1 to 5 by Andrew Ng
+Machine Learning Specialization Course 1 to 5 by Andrew Ng
 
 ## Lab Bank
 ### Course 1 Supervised Machine Learning: Regression and Classification
