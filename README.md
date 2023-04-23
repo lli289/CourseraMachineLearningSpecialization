@@ -36,4 +36,14 @@ Machine Learning Specialization Course 1 to 5 by Andrew Ng
   + [Optional Lab - Simple Neural Network](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%201/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
 * Week 1 Graded Lab:
   + [Practice Lab: Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%201/C2_W1_Assignment.ipynb)
+* Week 2 Optional Labs:
+  + [Optional Lab: Back propagation using a computation graph](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%202/C2_W2_Backprop.ipynb)
+  + [Optional Lab - Derivatives](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%202/C2_W2_Derivatives.ipynb)
+  + [Optional Lab - Multi-class Classification](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%202/C2_W2_Multiclass_TF.ipynb)
+  + [Optional Lab - ReLU activation](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%202/C2_W2_Relu.ipynb)
+  + [Optional Lab - Softmax Function](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%202/C2_W2_SoftMax.ipynb)
+* Week 2 Graded Lab:
+  + [Practice Lab: Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%202/C2_W2_Assignment.ipynb)
 ### Course 3 Unsupervised Learning, Recommenders, Reinforcement Learning
+* Week 1 Optional Labs:
+* Week 1 Graded Lab:
