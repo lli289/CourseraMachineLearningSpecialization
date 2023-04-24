@@ -59,5 +59,5 @@ Machine Learning Specialization Course 1 to 5 by Andrew Ng
   + [Practice lab: Collaborative Filtering Recommender Systems](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%202/C3_W2_Collaborative_RecSys_Assignment.ipynb)
   + [Practice lab: Deep Learning for Content-Based Filtering](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%202/C3_W2_RecSysNN_Assignment.ipynb)
 * Week 3 Optional Labs:
-  +[State Action Value Function Example](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%203/State-action%20value%20function%20example.ipynb)
+  + [State Action Value Function Example](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%203/State-action%20value%20function%20example.ipynb)
 * Week 3 Graded Lab:
