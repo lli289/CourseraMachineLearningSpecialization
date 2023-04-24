@@ -68,6 +68,6 @@ Machine Learning Specialization Course 1 to 5 by Andrew Ng
 * Week 3 Graded Lab:
   + [Deep Q-Learning - Lunar Lander](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%203/C3_W3_A1_Assignment.ipynb)
 ## Quiz Bank
-* Course 1 Week 1 to Week 3 Quiz
-* Course 2 Week 1 to Week 4 Quiz
-* Course 3 Week 1 to Week 3 Quiz
+* [Course 1 Week 1 to Week 3 Qui](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Quiz%20Bank/Course%201%20Quiz.pdf)
+* [Course 2 Week 1 to Week 4 Quiz](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Quiz%20Bank/Course%202%20Quiz.pdf)
+* [Course 3 Week 1 to Week 3 Quiz](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Quiz%20Bank/Course%203%20Quiz.pdf)
