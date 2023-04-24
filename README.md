@@ -44,6 +44,15 @@ Machine Learning Specialization Course 1 to 5 by Andrew Ng
   + [Optional Lab - Softmax Function](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%202/C2_W2_SoftMax.ipynb)
 * Week 2 Graded Lab:
   + [Practice Lab: Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%202/C2_W2_Assignment.ipynb)
+* Week 3 Optional Labs:
+  + [Optional Lab: Model Evaluation and Selection](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%203/C2W3_Lab_01_Model_Evaluation_and_Selection.ipynb)
+  + [Optional Lab: Diagnosing Bias and Variance](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%203/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)
+* Week 3 Graded Lab:
+  + [Practice Lab: Advice for Applying Machine Learning](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%203/C2_W3_Assignment.ipynb)
 ### Course 3 Unsupervised Learning, Recommenders, Reinforcement Learning
 * Week 1 Optional Labs:
 * Week 1 Graded Lab:
+* Week 2 Optional Labs:
+* Week 2 Graded Lab:
+* Week 3 Optional Labs:
+* Week 3 Graded Lab:
