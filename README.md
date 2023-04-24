@@ -50,9 +50,14 @@ Machine Learning Specialization Course 1 to 5 by Andrew Ng
 * Week 3 Graded Lab:
   + [Practice Lab: Advice for Applying Machine Learning](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%203/C2_W3_Assignment.ipynb)
 ### Course 3 Unsupervised Learning, Recommenders, Reinforcement Learning
-* Week 1 Optional Labs:
-* Week 1 Graded Lab:
-* Week 2 Optional Labs:
+* Week 1 Graded Labs:
+  + [Anomaly Detection](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%201/C3_W1_Anomaly_Detection.ipynb)
+  + [K means Clustering](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%201/C3_W1_KMeans_Assignment.ipynb)
+* Week 2 Optional Lab:
+  + [PCA An example on Exploratory Data Analysis](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%202/C3_W2_Lab01_PCA_Visualization_Examples.ipynb)
 * Week 2 Graded Lab:
+  + [Practice lab: Collaborative Filtering Recommender Systems](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%202/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+  + [Practice lab: Deep Learning for Content-Based Filtering](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%202/C3_W2_RecSysNN_Assignment.ipynb)
 * Week 3 Optional Labs:
+  +[State Action Value Function Example](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%203/State-action%20value%20function%20example.ipynb)
 * Week 3 Graded Lab:
