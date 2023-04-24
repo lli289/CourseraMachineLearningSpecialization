@@ -49,10 +49,10 @@ Machine Learning Specialization Course 1 to 5 by Andrew Ng
   + [Optional Lab: Diagnosing Bias and Variance](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%203/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)
 * Week 3 Graded Lab:
   + [Practice Lab: Advice for Applying Machine Learning](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%203/C2_W3_Assignment.ipynb)
- * Week 4 Optional Labs:
+* Week 4 Optional Labs:
   + [Ungraded Lab: Decision Trees](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%204/C2_W4_Lab_01_Decision_Trees.ipynb)
   + [Ungraded Lab - Trees Ensemble](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%204/C2_W4_Lab_02_Tree_Ensemble.ipynb)
- * Week 4 Graded Lab: 
+* Week 4 Graded Lab: 
   + [Practice Lab: Decision Trees](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%202/Week%204/C2_W4_Decision_Tree_with_Markdown.ipynb)
 ### Course 3 Unsupervised Learning, Recommenders, Reinforcement Learning
 * Week 1 Graded Labs:
