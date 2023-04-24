@@ -61,3 +61,4 @@ Machine Learning Specialization Course 1 to 5 by Andrew Ng
 * Week 3 Optional Labs:
   + [State Action Value Function Example](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%203/State-action%20value%20function%20example.ipynb)
 * Week 3 Graded Lab:
+  + [Deep Q-Learning - Lunar Lander](https://github.com/lli289/CourseraMachineLearningSpecialization/blob/main/Lab%20Bank/Course%203/Week%203/C3_W3_A1_Assignment.ipynb)
